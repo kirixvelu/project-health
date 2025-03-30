@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://dietforlife.ca/rss.xml" rel="self" type="application/rss+xml" />
+     <title>Digital Designers</title>
+    <link>https://dietforlife.ca</link>
+    <description>To help individuals and families make informed decisions about food choices to healthy lifestyle in the 21st century</description>
+    <item>
+      <guid>https://dietforlife.ca</guid>
+      <title>Digital Designers</title>
+      <link>https://dietforlife.ca</link>
+      <description />
+      <pubDate>Wed, 15 Jan 2020 06:06:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://dietforlife.ca/index.html</guid>
+      <title>Digital Designers</title>
+      <link>https://dietforlife.ca/index.html</link>
+      <description />
+      <pubDate>Wed, 15 Jan 2020 06:06:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://dietforlife.ca/purpose.html</guid>
+      <title>Diet for Life: Purpose of the Research</title>
+      <link>https://dietforlife.ca/purpose.html</link>
+      <description />
+      <pubDate>Wed, 15 Jan 2020 06:06:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://dietforlife.ca/review.html</guid>
+      <title>Diet for Life: Review of Past, Present and the Future</title>
+      <link>https://dietforlife.ca/review.html</link>
+      <description />
+      <pubDate>Wed, 15 Jan 2020 06:06:00 Z</pubDate>
+    </item>
+    <item>
+      <guid>https://dietforlife.ca/report.html</guid>
+      <title>Diet for Life: Resolution to the Dilemmas of Diet & Health</title>
+      <link>https://dietforlife.ca/report.html</link>
+      <description />
+      <pubDate>Wed, 15 Jan 2020 06:06:00 Z</pubDate>
+    </item>
+  </channel>
+</rss>
