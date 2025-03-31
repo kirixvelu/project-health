@@ -10,7 +10,7 @@
   --secondary: grey;
   --light: silver;
   --dark: black;
-  --theme: green;
+  --theme: hsl(120, 100%, 35%);
   --highlight: white;
 }
 
@@ -50,10 +50,13 @@ body {
 header {
   top: 0;
   position: fixed;
+  border-radius: 0 0 40px 40px;
+  background: var(--theme);
 }
 
 footer {
   bottom: 0;
+  border-top: 2px solid;
   position: absolute;
   font-size: 1.4rem;
   padding: 10px 20px;
@@ -61,10 +64,12 @@ footer {
 
 header,
 footer {
+  left: 0;
+  right: 0;
+  margin: auto;
   width: 100%;
+  max-width: 1080px;
   opacity: 0.9;
-  color: var(--primary);
-  background: var(--theme);
   z-index: 1;
   overflow: hidden;
 }
@@ -103,12 +108,12 @@ h3 {
 }
 
 a {
-  color: var(--primary);
+  color: var(--dark);
   text-decoration: none;
 }
 
 a:hover {
-  border-bottom: 2px solid var(--highlight);
+  border-bottom: 2px solid var(--dark);
 }
 
 .current {

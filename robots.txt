@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 Allow: /sitemap.xml
-Sitemap: https://dietforlife.ca/sitemap.xml
+Sitemap: https://dietforlife.vercel.app/sitemap.xml
