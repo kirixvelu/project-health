@@ -1,4 +1,4 @@
-// Minimal Google Analytics via David
+// Minimal Analytics via David
 
 (function (context, trackingId, options) {
   const history = context.history;
@@ -57,8 +57,7 @@
         : undefined,
       vp:
         options.screenSize && context.visualViewport
-          ? `${(context.visualViewport || {}).width}x${
-          (context.visualViewport || {}).height
+          ? `${(context.visualViewport || {}).width}x${(context.visualViewport || {}).height
           }`
           : undefined,
       ec: eventCategory || undefined,
@@ -96,7 +95,7 @@
     trackEvent,
     trackException
   };
-})(window, "UA-154865406-3", {
+})(window, "to be updated", {
   anonymizeIp: true,
   colorDepth: true,
   characterSet: true,

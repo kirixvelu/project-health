@@ -14,15 +14,15 @@
 
 # THANKS
 
-	Brad Traversy, Developer/Educator
+	Brad Traversy, Developer/Educator (US)
 	https://www.traversymedia.com	
 
-	Sean Tucker, Photographer/Educator
+	Sean Tucker, Photographer/Educator (UK)
 	https://www.seantucker.photography
 	
-	Unmesh Dinda, Designer/Educator
+	Unmesh Dinda, Designer/Educator (IN)
 	https://www.piximperfect.com
 
 # TECHNOLOGY COLOPHON
 
-    Mozilla, Netlify, GitHub, W3Schools, Stackoverflow, VSCode 
+    Mozilla, GitHub, Vercel, VSCode
