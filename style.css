@@ -58,7 +58,7 @@ header {
 footer {
   bottom: 0;
   border-top: 2px solid var(--theme);
-  position: absolute;
+  /* position: absolute; */
   font-size: 1.4rem;
   padding: 10px 20px;
 }
