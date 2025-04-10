@@ -22,7 +22,7 @@
         {
           "key": "Referrer-Policy",
 
-          "value": "no-referrer-when-downgrade"
+          "value": "upgrade-insecure-requests"
         },
 
         {
