@@ -7,10 +7,10 @@
       "has": [
         {
           "type": "host",
-          "value": "dietforlife.vercel.app"
+          "value": "dietforlife.vercel.app/g/collect"
         }
       ],
-      "destination": "https://www.google.ca"
+      "destination": "https://www.google-analytics.com/g/collect"
     }
   ]
 }
