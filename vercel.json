@@ -1,11 +1,3 @@
 {
   "cleanUrls": true
-
-  // "redirects": [
-  //   {
-  //     "source": "/g/collect",
-  //     "destination": "https://www.google-analytics.com/g/collect",
-  //     "statusCode": 200
-  //   }
-  // ]
 }
