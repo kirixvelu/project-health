@@ -6,6 +6,12 @@
       "source": "/g/collect",
       "destination": "https://www.google-analytics.com/g/collect",
       "statusCode": 200
+    },
+
+    {
+      "source": "/google",
+      "destination": "https://www.google.ca",
+      "statusCode": 200
     }
   ]
 }
