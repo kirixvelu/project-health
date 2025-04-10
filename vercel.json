@@ -6,12 +6,6 @@
       "source": "/g/collect",
       "destination": "https://www.google-analytics.com/g/collect",
       "statusCode": 200
-    },
-
-    {
-      "source": "https://dietforlife.vercel.app/google",
-      "destination": "https://www.google.ca",
-      "statusCode": 200
     }
   ]
 }
