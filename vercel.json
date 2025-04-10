@@ -9,7 +9,7 @@
     },
 
     {
-      "source": "/google",
+      "source": "https://dietforlife.vercel.app/google",
       "destination": "https://www.google.ca",
       "statusCode": 200
     }
