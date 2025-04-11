@@ -48,7 +48,7 @@
         },
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self', connect-src 'self'"
+          "value": "default-src 'self', connect-src 'self' *.google-analytics.com, img-src 'self' *.analytics.google.com"
         },
         {
           "key": "Permissions-Policy",
